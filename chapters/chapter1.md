@@ -21,24 +21,13 @@ DAME 有一些非常有用的功能，从而简化了编辑过程。你可以通
 
 **如何安装 DAME**
 
-DAME 是多平台的，可运行在 Windows、Mac 和 Linux 上。安装 DAME，有很多不同的方法。Windows 用户只要运行下面的 exe 安装文件即可，它包含了所有用得到的内容：
-[DAME.exe](http://dambots.com/games/dame/DAME.exe)
+DAME 是多平台的，可运行在 Windows、Mac 和 Linux 上。安装 DAME，有很多不同的方法。Windows 用户只要运行下面的 exe 安装文件即可，它包含了所有用得到的内容：[DAME.exe](http://dambots.com/games/dame/DAME.exe)
 
 其他平台的用户可以按照下面的步骤安装 DAME：
-
-1.  首先确保您已经安装了Adobe Air，它是运行 air 格式文件所必需的
+1. 首先确保您已经安装了Adobe Air，它是运行 air 格式文件所必需的
 [[http://get.adobe.com/air/](http://get.adobe.com/air/)]
-2.  接下来就可以直接安装 air 文件了
-[[DAME.air](http://dambots.com/games/dame/DAME.air)] </dd>
-- [DAME 基础](chapter3.md)
-- [系列教程](chapter2.md) - 这里包含许多系列教程
-- **DAME 帮助** (未翻译) - 跟 DAME 有关的所有在线帮助文档
-1. 基础操作
-2. 编辑地图
-3. 编辑对象
-4. 编写输出接口
-5. 版本历史
-6. 软件许可
+2. 接下来就可以直接安装 air 文件了
+[[DAME.air](http://dambots.com/games/dame/DAME.air)]
 
 ### 接口
 
@@ -70,5 +59,7 @@ DAME 是由 Charles Goatley 编写的，仅供娱乐^^
 
 也许你会觉得 DAME 并不适合自己，那好吧-_! 虽然我很想知道其中的原因(千言万语，汇成两个字)！！如果 DAME 并未让你如此动心，下面是一些其他的免费地图编辑器，希望亲们能喜欢，祝亲成为大师：
 
-*   [Mappy](http://tilemap.co.uk/mappy.php)*   [Tiled](http://www.mapeditor.org/)
+- [Mappy](http://tilemap.co.uk/mappy.php)
+- [Tiled](http://www.mapeditor.org/)
+- 
   _文章来源：http://damehelp.dambots.com/index.php/Main_Page_
