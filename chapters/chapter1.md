@@ -19,33 +19,35 @@ DAME 有一些非常有用的功能，从而简化了编辑过程。你可以通
 
 ### DAME 教程
 
-*   **如何安装 DAME**
+**如何安装 DAME**
 
-    DAME 是多平台的，可运行在 Windows、Mac 和 Linux 上。安装 DAME，有很多不同的方法。Windows 用户只要运行下面的 exe 安装文件即可，它包含了所有用得到的内容：
+DAME 是多平台的，可运行在 Windows、Mac 和 Linux 上。安装 DAME，有很多不同的方法。Windows 用户只要运行下面的 exe 安装文件即可，它包含了所有用得到的内容：
+[DAME.exe](http://dambots.com/games/dame/DAME.exe)
 
-        [DAME.exe](http://dambots.com/games/dame/DAME.exe)
+其他平台的用户可以按照下面的步骤安装 DAME：
 
-    其他平台的用户可以按照下面的步骤安装 DAME：
-
-        1.  首先确保您已经安装了Adobe Air，它是运行 air 格式文件所必需的
-      <dl>
-        <dd>[[http://get.adobe.com/air/](http://get.adobe.com/air/)]</dd>
-      </dl>
-    2.  接下来就可以直接安装 air 文件了
-      <dl>
-        <dd>[[DAME.air](http://dambots.com/games/dame/DAME.air)] </dd>
-      </dl>
-*   [DAME 基础](first-steps.html)
-*   [系列教程](tutorials.html) - 这里包含许多系列教程
-*   **DAME 帮助** (未翻译) - 跟 DAME 有关的所有在线帮助文档
-
-        1.  [基础操作](javascript:void(0) "Basics")2.  [编辑地图](javascript:void(0) "Editing Maps")3.  [编辑对象](javascript:void(0) "Editing Objects")4.  [编写输出接口](javascript:void(0) "Writing An Exporter")5.  [版本历史](javascript:void(0) "Version History")6.  [软件许可](javascript:void(0) "License")
+1.  首先确保您已经安装了Adobe Air，它是运行 air 格式文件所必需的
+[[http://get.adobe.com/air/](http://get.adobe.com/air/)]
+2.  接下来就可以直接安装 air 文件了
+[[DAME.air](http://dambots.com/games/dame/DAME.air)] </dd>
+- [DAME 基础](chapter3.md)
+- [系列教程](chapter2.md) - 这里包含许多系列教程
+- **DAME 帮助** (未翻译) - 跟 DAME 有关的所有在线帮助文档
+1. 基础操作
+2. 编辑地图
+3. 编辑对象
+4. 编写输出接口
+5. 版本历史
+6. 软件许可
 
 ### 接口
 
 下面是各种牛人贡献的 DAME 接口：
 
-*   [Flixel Complex](http://damehelp.dambots.com/index.php/Flixel_Complex "Flixel Complex") (英文介绍)*   Flixel Simple*   [FlashPunk](http://damehelp.dambots.com/index.php/FlashPunk "FlashPunk") (英文介绍)*   xml Example
+- [Flixel Complex](http://damehelp.dambots.com/index.php/Flixel_Complex "Flixel Complex") (英文介绍)
+- Flixel Simple
+- [FlashPunk](http://damehelp.dambots.com/index.php/FlashPunk "FlashPunk") (英文介绍)
+- xml Example
 
 ### 关于 DAME
 
@@ -53,15 +55,16 @@ DAME 是由 Charles Goatley 编写的，仅供娱乐^^
 
 ### 基于 DAME 的游戏
 
-*   [Cat Astro Phi](http://www.newgrounds.com/portal/view/555641) —— 个以 gameboy 为主题的复古风格的射击/冒险游戏
-*   [Tealy &amp; Orangey](http://www.kongregate.com/games/FreakyZoid/tealy-orangey) —— 超难的益智类游戏
-*   [Deinos](http://www.newgrounds.com/portal/view/560191) —— 包含小机密的平台游戏*   [Piano Dancer](http://www.kongregate.com/games/orandze/piano-dancer) —— 经典的音乐闯关游戏，具有复古风格
+- [Cat Astro Phi](http://www.newgrounds.com/portal/view/555641) —— 个以 gameboy 为主题的复古风格的射击/冒险游戏
+- [Tealy &amp; Orangey](http://www.kongregate.com/games/FreakyZoid/tealy-orangey) —— 超难的益智类游戏
+- [Deinos](http://www.newgrounds.com/portal/view/560191) —— 包含小机密的平台游戏
+- [Piano Dancer](http://www.kongregate.com/games/orandze/piano-dancer) —— 经典的音乐闯关游戏，具有复古风格
 
 ### 外部链接
 
-*   [Flash Game Dojo](http://flashgamedojo.com) —— 关于 Flash/AS 游戏开发的网站
-*   [Flixel](http://flixel.org/) —— Flixel 是免费的 2D 游戏 AS 框架
-*   [FlashPunk](http://flashpunk.net/) —— FlashPunk 是免费的 2D 游戏 AS 框架
+- [Flash Game Dojo](http://flashgamedojo.com) —— 关于 Flash/AS 游戏开发的网站
+- [Flixel](http://flixel.org/) —— Flixel 是免费的 2D 游戏 AS 框架
+- [FlashPunk](http://flashpunk.net/) —— FlashPunk 是免费的 2D 游戏 AS 框架
 
 ### 其他的地图编辑器
 
