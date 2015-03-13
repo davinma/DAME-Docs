@@ -63,4 +63,5 @@ DAME 是由 Charles Goatley 编写的，仅供娱乐^^
 - [Mappy](http://tilemap.co.uk/mappy.php)
 - [Tiled](http://www.mapeditor.org/)
 
-  _文章来源：http://damehelp.dambots.com/index.php/Main_Page_
+
+*文章来源：http://damehelp.dambots.com/index.php/Main_Page*
