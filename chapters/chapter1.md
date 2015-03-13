@@ -24,6 +24,7 @@ DAME 有一些非常有用的功能，从而简化了编辑过程。你可以通
 DAME 是多平台的，可运行在 Windows、Mac 和 Linux 上。安装 DAME，有很多不同的方法。Windows 用户只要运行下面的 exe 安装文件即可，它包含了所有用得到的内容：[DAME.exe](http://dambots.com/games/dame/DAME.exe)
 
 其他平台的用户可以按照下面的步骤安装 DAME：
+
 1. 首先确保您已经安装了Adobe Air，它是运行 air 格式文件所必需的
 [[http://get.adobe.com/air/](http://get.adobe.com/air/)]
 2. 接下来就可以直接安装 air 文件了
@@ -61,5 +62,5 @@ DAME 是由 Charles Goatley 编写的，仅供娱乐^^
 
 - [Mappy](http://tilemap.co.uk/mappy.php)
 - [Tiled](http://www.mapeditor.org/)
-- 
+
   _文章来源：http://damehelp.dambots.com/index.php/Main_Page_
