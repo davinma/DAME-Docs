@@ -6,10 +6,11 @@ DAME 有一些非常有用的功能，从而简化了编辑过程。你可以通
 # 概述
 这些页面是关于 Flash 游戏项目相关资源的介绍。当初计划用于团队游戏项目中，当作大家的使用参考，后来由于更换了开发工具，这些翻译文章遂被废弃。前些时日觉得弃之可惜，不如公开给分享出来。由于本人英语水平有限，有些语句翻译并不一定完全正确，敬请谅解。
 
-# 关于原作者
-作者的 Github：[XanderXevious](https://github.com/XanderXevious)
+# DAME 的所有者
 
-源文档：[DAME help documens](https://github.com/XanderXevious/DAME/tree/master/DAME/help)
+  - 所有者的 Github：[XanderXevious](https://github.com/XanderXevious)
+  - 源文档：[DAME help documens](https://github.com/XanderXevious/DAME/tree/master/DAME/help)
 
 # License
-under the [MIT](http://opensource.org/licenses/mit-license.php).
+
+Under the [MIT](http://opensource.org/licenses/mit-license.php).
