@@ -24,11 +24,11 @@
 
 接下来，会出现一个【Layer Properties】(图层属性)对话框(如图四所示)，你可以修改关于 map 图层的更多信息。大多数的属性值可以保持默认值，但是你要根据自己的需求，把 tileset(图像)导入到 DAME 中。tileset 实际上只是个图片文件(通常是 PNG 格式)，其中包含着挨个排列的 tile 元素(当然，DAME 本身也可以创建 tileset，在此我们先不作讨论)。
 
-1.  点击【Tileset】文本框后面的省略号按钮，从本地导入自己需要的 tilemap。
-2.  DAME 将会自动检测每个 tile 的尺寸，从而确保【Tile Width】和【Tile Height】的值是刚好合适的。如果你的 tileset 文件中包含多行 tile，DAME 给定的值不一定就是正确的。
-3.  输入你的 tilemap 的宽度和高度值，这里的值是你的 tilemap 上的 tile 的宽和高的数量，**而不是以像素为单位的地图尺寸**。
-4.  确认输入的【Draw Index】和【Collide Index】的值合适。小于【Draw Index】的值在 tiles 当中将不会出现；小于【Collide Index】的值在游戏进行碰撞检测时也将不会被考虑进去。这些值的设置取决于 tileset 图像中的 tile 元素。**请记住，tile 的初始值是 0，而不是 1**。
-5.  利用【Scroll Factor X】和【Scroll Factor Y】设置的数值，可以在背景图中做出 parallax effect。这些数值是相对于游戏镜头的移动，以小数为单位的。举个栗子来说，把滚动数值设置为 1，代表图层是正常移动的，那么 10 像素就表示相机镜头是以每 10 像素为单位移动的。当滚动数值设置为 0.5 就表示以一半的速度移动：相机镜头每移动 10 像素，就代表了 5 个像素。滚动数值设置为 0 时，意味着不管游戏镜头如何移动，图层始终停留在相同的位置上。
+1. 点击【Tileset】文本框后面的省略号按钮，从本地导入自己需要的 tilemap。
+2. DAME 将会自动检测每个 tile 的尺寸，从而确保【Tile Width】和【Tile Height】的值是刚好合适的。如果你的 tileset 文件中包含多行 tile，DAME 给定的值不一定就是正确的。
+3. 输入你的 tilemap 的宽度和高度值，这里的值是你的 tilemap 上的 tile 的宽和高的数量，**而不是以像素为单位的地图尺寸**。
+4. 确认输入的【Draw Index】和【Collide Index】的值合适。小于【Draw Index】的值在 tiles 当中将不会出现；小于【Collide Index】的值在游戏进行碰撞检测时也将不会被考虑进去。这些值的设置取决于 tileset 图像中的 tile 元素。**请记住，tile 的初始值是 0，而不是 1**。
+5. 利用【Scroll Factor X】和【Scroll Factor Y】设置的数值，可以在背景图中做出 parallax effect。这些数值是相对于游戏镜头的移动，以小数为单位的。举个栗子来说，把滚动数值设置为 1，代表图层是正常移动的，那么 10 像素就表示相机镜头是以每 10 像素为单位移动的。当滚动数值设置为 0.5 就表示以一半的速度移动：相机镜头每移动 10 像素，就代表了 5 个像素。滚动数值设置为 0 时，意味着不管游戏镜头如何移动，图层始终停留在相同的位置上。
 
   ####附：Parallax effect 是什么？<br />
     - [维基百科解释](http://en.wikipedia.org/wiki/Parallax_scrolling) <br />
